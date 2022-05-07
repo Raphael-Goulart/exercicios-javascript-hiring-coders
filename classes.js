@@ -9,6 +9,6 @@ class Matematica { //definiu uma classe provém uma maneira mais simples de cria
 
 var instanciaMatematica = new Matematica();
 
-var resultado = instanciaMatematica.soma(4, 7);
+var resultado = instanciaMatematica.soma(10, 10);
 
 console.log(resultado);
